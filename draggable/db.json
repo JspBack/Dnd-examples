@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Samaria",
+      "lastName": "Sennett"
+    },
+    {
+      "id": 2,
+      "name": "Gauthier",
+      "lastName": "Fassbindler"
+    },
+    {
+      "id": 3,
+      "name": "Mellisa",
+      "lastName": "Armatidge"
+    },
+    {
+      "id": 4,
+      "name": "Arabela",
+      "lastName": "Chardin"
+    },
+    {
+      "id": 5,
+      "name": "Devon",
+      "lastName": "McCorrie"
+    },
+    {
+      "id": 6,
+      "name": "Stacee",
+      "lastName": "Marien"
+    },
+    {
+      "id": 7,
+      "name": "Federica",
+      "lastName": "Fasham"
+    },
+    {
+      "id": 8,
+      "name": "Jecho",
+      "lastName": "Vasyaev"
+    },
+    {
+      "id": 9,
+      "name": "Alasteir",
+      "lastName": "Allott"
+    },
+    {
+      "id": 10,
+      "name": "Elston",
+      "lastName": "Swadlin"
+    }
+  ]
+}
